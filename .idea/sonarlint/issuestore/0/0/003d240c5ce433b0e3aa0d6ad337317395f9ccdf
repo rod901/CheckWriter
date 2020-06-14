@@ -1,0 +1,10 @@
+
+2
+java:S1643"Use a StringBuilder instead.(öŸ”›
+[
+java:S1854A"@Remove this useless assignment to local variable "convertedNum".(—²‰Ÿıÿÿÿÿ
+7	java:S131""Add a default case to this switch.(ŸÓüÂ
+A
+java:S14816"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ
+L
+java:S1481A"1Remove this unused "convertedNum" local variable.(—²‰Ÿıÿÿÿÿ
